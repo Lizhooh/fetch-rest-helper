@@ -1,0 +1,26 @@
+{
+  "name": "fetch-rest-helper",
+  "version": "1.0.0",
+  "description": "fetch-rest-helper is a secondary routing tool used to define REST API.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lizhooh/fetch-rest-helper"
+  },
+  "author": "lizhooh",
+  "license": "MIT",
+  "keywords": [
+    "fetch",
+    "rest",
+    "fetch-rest",
+    "fetch-rest-helper"
+  ],
+  "dependencies": {
+    "is-env": "^1.0.1",
+    "isomorphic-fetch": "^2.2.1",
+    "path": "^0.12.7",
+    "qs": "^6.5.2",
+    "url": "^0.11.0",
+    "util": "^0.10.4"
+  }
+}
