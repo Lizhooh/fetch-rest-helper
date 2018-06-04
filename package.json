@@ -1,6 +1,6 @@
 {
   "name": "fetch-rest-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fetch-rest-helper is a secondary routing tool used to define REST API.",
   "main": "index.js",
   "repository": {
