@@ -2,6 +2,8 @@
 ### fetch-rest-helper
 fetch-rest-helper is a secondary routing tool used to define REST API.
 
+<img src="https://img.shields.io/npm/v/fetch-rest-helper.svg" style="width: auto; height: auto"/>
+
 ### install
 
 ```bash
